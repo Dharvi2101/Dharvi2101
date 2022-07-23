@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Dharvi Jagad
-- 👀 I’m interested in Data Scientist Role.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Machine Learning,Deep Learning,Cloud(Azure)
 - 📫 How to reach me:
 - Email ID : jagaddharvi5@gmail.com
